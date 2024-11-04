@@ -10,7 +10,7 @@
 # UTS GRAFIKA KOMPUTER
 
 # SCREENSHOT PROGRAM
-![image] (https://github.com/MFadelM/MULTIMEDIA_UTS/blob/main/UTS.js)
+![image](https://github.com/MFadelM/MULTIMEDIA_UTS/blob/main/UTS.js)
 
 
 
